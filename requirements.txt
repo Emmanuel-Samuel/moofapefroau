@@ -1,0 +1,4 @@
+PyQt5
+pathlib
+speech-recognition
+nltk
