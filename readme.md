@@ -45,4 +45,4 @@ Project is: complete
 
 
 ## Contact
-Created by [Emmanuel Samuel]- feel free to contact me!
+Created by [Emmanuel Samuel](https://www.github.com/Emmanuel-Samuel)- feel free to contact me!
